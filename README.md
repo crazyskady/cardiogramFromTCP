@@ -19,3 +19,5 @@ step 2: run dataGen.py
 
 
 Tested under python 3.5.2
+
+https://github.com/crazyskad/cardiogramFromTCP/master/example.gif
